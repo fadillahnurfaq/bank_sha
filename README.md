@@ -1,16 +1,40 @@
-# bank_sha
+# Bank Sha (Flutter E-Wallet App) //API Consumed
 
-A new Flutter project.
+This is a Flutter based E-Wallet App that utilizes the Bloc State Management pattern, Services and Models to manage state and data. It includes features such as authentication, top up system using the Midtrans demo, transferring funds to other users, and buying dummy data plans.
 
-## Getting Started
+## Link Application
+https://drive.google.com/file/d/14aD1r9KqVGRAF_Adj20WsOF-6wHyDs_F/view?usp=sharing
 
-This project is a starting point for a Flutter application.
+## Detail Application
 
-A few resources to get you started if this is your first Flutter project:
+![detail 1](ss/ss1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![detail 2](ss/ss2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![detail 3](ss/ss3.png)
+
+![detail 4](ss/ss4.png)
+
+## Dependencies
+This app uses the following dependencies:
+
+-  another_flushbar: ^1.12.29
+-  carousel_slider: ^4.2.1
+-  cupertino_icons: ^1.0.2
+-  dartz: ^0.10.1
+-  dio: ^5.0.2
+-  equatable: ^2.0.5
+-  flutter_bloc: ^8.1.2
+-  flutter_secure_storage: ^8.0.0
+-  google_fonts: ^3.0.1
+-  image_picker: ^0.8.7
+-  intl: ^0.18.0
+-  url_launcher: ^6.1.10
+-  flutter_launcher_icons: ^0.12.0
+
+## Features
+
+- Authentication
+- Top Up System using Midtrans demo
+- Transfer funds to other users
+- Buy data Plans 
